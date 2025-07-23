@@ -3,14 +3,14 @@ This pack of scrips is able to send a "story.png" file to your Instagram, Tiktok
 
 
 
-=============================================
+
 Requirements
 =============================================
 - Install Python.
 - pip install instagrapi (for instagram)
 
 
-=============================================
+
 Setup
 =============================================
 1. Copy your "story.png" file in the flder.
@@ -26,7 +26,7 @@ You can also set your "HIGHLIGHT_NAME", which the story gets added to. The given
 - Enable ADB in bluestacks settings -> advanced settings.
 
 
-=============================================
+
 RUN
 =============================================
 4. Run "send_insta_twitch_tiktok.bat" to send "story.png" to all 3 platforms story.
