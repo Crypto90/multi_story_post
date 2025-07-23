@@ -1,7 +1,11 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K314GUP)
+
+# Download:
+
+[Download v1.0.0](https://github.com/Crypto90/multi_story_post/releases/download/1.0.0/multi_story_post.zip)
+
 # Crypto90's Multi Story Post
 This pack of scrips is able to send a "story.png" file to your Instagram, Tiktok and Twitch story.
-
-
 
 
 Requirements
