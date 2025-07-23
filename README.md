@@ -22,7 +22,7 @@ Setup
 2. For instagram, edit the "upload_instagram.py" file and add your USERNAME and PASSWORD.
 You can also set your "HIGHLIGHT_NAME", which the story gets added to. The given highlight has to exist already on instagram for this to work.
 
-3. Twitch and tiktok stiry Uploads require bluestakcks.
+3. Twitch and tiktok story Uploads require bluestakcks.
 - Install Bluestacks.
 - Install Tiktok app.
 - Install Twitch app.
