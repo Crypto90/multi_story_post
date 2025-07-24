@@ -5,6 +5,7 @@ REM === Check for BlueStacks process ===
 tasklist /FI "IMAGENAME eq HD-Player.exe" | find /I "HD-Player.exe" >nul
 if errorlevel 1 (
     echo ❌ BlueStacks is NOT running. Aborting.
+	pause
     exit /b 1
 )
 
