@@ -49,23 +49,23 @@ time.sleep(1)
 set_vertical()
 
 launch_twitch()
-time.sleep(4)  # wait for app to load
+time.sleep(6)  # wait for app to load
 
 
 
 # Open story UI
 tap(975, 1885)  # click on your profile on the bottom right
-time.sleep(1)
+time.sleep(6)
 tap(595, 280)  # click on the + icon on your profile picture
-#time.sleep(1)
+time.sleep(5)
 tap(120, 600)  # click last image
-time.sleep(1)
+time.sleep(4)
 tap(1050, 420)  # click on sound note to disable music which gets automatically added
-time.sleep(1)
+time.sleep(4)
 tap(1025, 1845)  # click the delete pastebin icon on the bottom right to remove the sound
-time.sleep(1)
+time.sleep(4)
 tap(42, 72)  # close sound overlay
-time.sleep(1)
+time.sleep(4)
 tap(570, 1878)  # confirm post story button
 
 # Done
