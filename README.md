@@ -2,7 +2,7 @@
 
 # Download:
 
-[Download v1.0.1](https://github.com/Crypto90/multi_story_post/releases/download/1.0.1/multi_story_post_1.0.1.zip)
+[Download v1.0.1](https://github.com/Crypto90/multi_story_post/releases/download/1.0.1/upload_to_stories_1.0.1.zip)
 
 # Crypto90's Multi Story Post
 This pack of scrips is able to send a "story.png" file to your Instagram, Tiktok and Twitch story.
